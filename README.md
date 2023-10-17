@@ -1,8 +1,5 @@
 # Money-Is-All-You-Need
 
-<span style="color:red"> *some emphasized markdown text*</span>
-
-
 When you encountered this ${\color{red}ERROR:}$
 
 `
@@ -13,3 +10,14 @@ PYTORCH_CUDA_ALLOC_CONF
 `,
 
 you realized that MONEY is all you need.
+
+----
+Ideas—>Money—>More Money—>Lots of money
+
+If you have ideas, you should obtain enough money to realize them.
+
+If you have problems in your work, you should obtain more money to solve them.
+
+If you realized a few of ideas, you should pay lots of money to print them.
+
+So, ALL YOU NEED IS MONEY.
