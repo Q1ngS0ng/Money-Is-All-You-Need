@@ -20,8 +20,6 @@ you realized that MONEY is all you need.
 
 MONEY MONEY MONEY IS ALL YOU NEED
 
-Ideas—>Money—>More Money—>Lots of money
-
 If you have ideas, you should obtain enough money to realize them.
 
 If you have problems, you should obtain more money to solve them.
