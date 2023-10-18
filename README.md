@@ -22,9 +22,9 @@ MONEY MONEY MONEY IS ALL YOU NEED
 
 If you have ideas, you should obtain enough money to realize them.
 
-If you have problems, you should spend more money to solve them.
+If you have problems, you should spend more money solving them.
 
-If you realized the idea, you should pay super money to apply them.
+If you realized ideas, you should pay super money for turning them into applications.
 
 So, ALL YOU NEED IS MONEY.
 
