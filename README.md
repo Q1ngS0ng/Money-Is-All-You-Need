@@ -1,6 +1,6 @@
 # Money-Is-All-You-Need
 
-In the recent few years, diffusion models are gaining popularity due to their fantastic performance in the field of image generation. However, training these models and collecting the training data can be prohibitively costly. We propose a novel financial instruments to protect the research process ,named GMM, from being abandoned in the very beginning. Specifically, we emply the GMM, <u>G</u>ive <u>M</u>e <u>M</u>oney, to buy more A100s and employ more Ph.D to undertake research tasks which makes ideas be possible to be realized and more papers can be published. Experimental results have indicated that the GMM accelerates research and reduces research pressure effectively, accompanied by more publications.
+In the recent few years, diffusion models are gaining popularity due to their fantastic performance in the field of image generation. However, collecting datasets and training DMs can be prohibitively costly. We propose a novel financial instrument, named GMM, to protect the research from being abandoned in the very beginning. Specifically, we emply the GMM, <u>G</u>ive <u>M</u>e <u>M</u>oney, to buy more A100s and employ more Ph.D to undertake research tasks which makes ideas be possible to be realized and more papers can be published. Experimental results have indicated that the GMM accelerates research and reduces research pressure effectively, accompanied by more publications.
 
 ----
 When you encountered this ${\color{red}ERROR:}$
